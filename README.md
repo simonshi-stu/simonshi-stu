@@ -1,6 +1,6 @@
-# Simon Shi
+<p align="center"><img src="./assets/profile-banner.svg" alt="Simon Shi — Data, Systems and Intelligence" width="100%"/></p>
 
-### AI Agents · Machine Learning · Forecasting · Simulation
+<p align="center"><b>AI AGENTS &nbsp; ◇ &nbsp; MACHINE LEARNING &nbsp; ◇ &nbsp; BACKEND &nbsp; ◇ &nbsp; SIMULATION</b></p>
 
 I work on agent tools, data workflows, and simulation problems, with an interest in making model behavior easier to inspect and evaluate.
 
@@ -8,7 +8,9 @@ My academic background spans Mathematics & Computer Science and Statistics at UI
 
 [Explore my repositories](https://github.com/simonshi-stu?tab=repositories) · [Agent tooling](https://github.com/simonshi-stu/openchamber-application-hud) · [Simulation research](https://github.com/simonshi-stu/llm-user-simulation-agent)
 
-## Current Focus
+---
+
+## ◇ Current Focus
 
 **01 / Agent tools and workflows**  
 Developing interfaces and local workflows for task queues, session interaction, and human review.
@@ -19,7 +21,9 @@ Working with product evidence, pricing scenarios, automotive-parts data, and int
 **03 / Simulation and evaluation**  
 Exploring LLM-based user simulation, time-aware context, and independent evaluation.
 
-## Project Map
+---
+
+## ◇ Project Map
 
 A conceptual overview of my projects and their areas of focus. These are separate projects, not components of one deployed system.
 
@@ -43,7 +47,9 @@ flowchart TB
     class H,C,V,G,E project;
 ```
 
-## Selected Projects
+---
+
+## ◇ Selected Projects
 
 ### [OpenChamber Application HUD](https://github.com/simonshi-stu/openchamber-application-hud)
 
@@ -77,16 +83,18 @@ An automotive-parts data workspace for turning Excel workbooks into structured, 
 - Interactive tables, filters, charts, and pivot analysis.
 - Forecasting and anomaly detection are planned extensions.
 
-## Background
+---
+
+## ◇ Background
 
 - **UIUC:** Mathematics & Computer Science + Statistics
 - **UCLA:** MEng, Data Science
 - **Experience:** Hyundai Mobis, ATLAS, and network-risk research with Wei Wei
 
-## Tools
+## ◇ Tools
 
 Python · SQL · R · PyTorch · Pandas · JavaScript · Node.js
 
-## Exploring Next
+## ◇ Exploring Next
 
 Forecasting, simulation, backend systems, and decision-support applications, including Disney park planning.
