@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="Simon Shi AI and data systems">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#142849"/></linearGradient><linearGradient id="line"><stop stop-color="#35d9e9"/><stop offset="1" stop-color="#9677ff"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#78b9e1" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="340" rx="20" fill="url(#bg)"/><rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+<g fill="none" stroke="url(#line)" stroke-width="2" opacity=".7"><path d="M690 74h130l55 55h160l58 58"/><path d="M667 260h127l48-48h154l63-63"/><path d="M836 34v75l72 72v104"/><path d="M1144 65h-90l-44 44"/></g><g fill="#67e8f9"><circle cx="690" cy="74" r="4"/><circle cx="875" cy="129" r="5"/><circle cx="1093" cy="187" r="5"/><circle cx="667" cy="260" r="4"/><circle cx="842" cy="212" r="5"/><circle cx="1059" cy="149" r="4"/><circle cx="908" cy="285" r="4"/></g>
+<circle cx="1004" cy="180" r="93" fill="none" stroke="#6bb5ef" stroke-opacity=".19"/><circle cx="1004" cy="180" r="69" fill="none" stroke="#aa8cff" stroke-opacity=".25"/><path d="M930 180h148M1004 106v148" stroke="#8bdfff" opacity=".22"/>
+<text x="64" y="76" fill="#55dbe8" font-family="Arial,sans-serif" font-size="14" letter-spacing="5">DATA  /  SYSTEMS  /  INTELLIGENCE</text>
+<text x="62" y="162" fill="#f4f8ff" font-family="Arial,sans-serif" font-weight="700" font-size="64">SIMON SHI</text>
+<text x="65" y="210" fill="#bfcee7" font-family="Arial,sans-serif" font-size="23">Building practical systems from data &amp; ideas</text>
+<rect x="64" y="253" width="470" height="2" fill="url(#line)"/><text x="64" y="290" fill="#90aaca" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">AI AGENTS   •   MACHINE LEARNING   •   BACKEND</text></svg>
